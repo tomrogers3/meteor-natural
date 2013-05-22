@@ -1,0 +1,9 @@
+{
+  "name": "natural",
+  "description": "Natural language facilities library, packaged for Meteor",
+  "homepage": "https://github.com/pent/meteor-natural",
+  "author": "Jonathan Pidgeon <jon@empire5design.com",
+  "version": "1.0.0",
+  "git": "https://github.com/pent/meteor-natural.git",
+  "packages": {}
+}
