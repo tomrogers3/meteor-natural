@@ -6,5 +6,5 @@ A wrapper around [natural](https://github.com/NaturalNode/natural) for use with 
 mrt add natural
 
 ##Usage
-natural = Natural();
+natural = Natural;
 
